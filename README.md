@@ -108,7 +108,7 @@ Use the Aspire CLI to orchestrate and run the Web API and related services:
 aspire run
 ```
 
-This will start the Aspire dashboard and all required services, including the Minimal Web AP and chat UI.
+This will start the Aspire dashboard and all required services, including the Minimal Web API and chat UI.
 
 ### 4. Test Minimal Web API Application
 
